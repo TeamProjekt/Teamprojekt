@@ -5,5 +5,7 @@ public class test {
 		System.out.println("Hallo Welt");
 		System.out.println("Hallo Welt");
 	}
-
+	public String HallovonFeli(){
+	return("Seas von Feli");
+	}
 }
